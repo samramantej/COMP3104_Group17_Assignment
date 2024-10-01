@@ -1,3 +1,4 @@
 The COMP 3104 DevOps course provides students with a comprehensive introduction to the DevOps methodology. It covers key practices such as continuous integration,
  continuous delivery, automation, and infrastructure as code. Students learn to use tools like Git etc.to streamline software development processes and improve collaboration between development and operations teams.
   This course emphasizes the importance of communication, automation, and monitoring in building reliable and scalable systems.
+"The COMP 3104 course also covers cloud infrastructure." 
