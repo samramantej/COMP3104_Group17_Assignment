@@ -1,0 +1,21 @@
+name: CI Pipeline
+
+on: 
+  push:
+    branches:
+      - main
+      - 101410416-MantejSinghSamra
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Run a basic test
+        run: echo "Running CI pipeline on ${{ github.ref }} branch"
