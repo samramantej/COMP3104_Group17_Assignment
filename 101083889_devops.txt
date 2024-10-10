@@ -30,4 +30,4 @@ context of monolith vs microservice architectures.
 7. Utilize service platforms such as Infrastructure as Code and the associated benefits of
 cloud computing products.
 
-8. Identify the market space as a DevOps engineer. s.
+8. Identify the market space as a DevOps engineer.
