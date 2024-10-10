@@ -66,3 +66,21 @@ some sort of unintended behavior and keep transparency & communication
 heightened across all teams. Looking at the software development lifecycle
 through the lens of a DevOps Engineer will produce a more informed and qualified
 developer.
+
+
+★Assignment Policy
+
+
+- All assignments must be submitted on the due date based on an instruction given by the
+professor. Late assignment will be penalized 20% per day to a maximum of seven days,
+the weekend included unless the student has notified the professor (via email, phone or in
+person) ahead of the due date that he/she has a valid reason for a late submission.
+
+
+★ Test Policy
+- Students must complete tests and the final exam on the assigned day. If unable to
+complete the test/exam as scheduled, students are required to notify the professor at least
+three days prior to the date, so alternative arrangements can be made. Failure to comply
+with this policy may result in a zero grade.
+- There will be no makeup quiz and lab exercises. If you anticipate missing more than two
+quizzes or lab exercises for serious, major reasons, notify your professor beforehand.
