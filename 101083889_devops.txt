@@ -31,3 +31,18 @@ context of monolith vs microservice architectures.
 cloud computing products.
 
 8. Identify the market space as a DevOps engineer.
+
+
+
+How to success this course?
+
+Your success in this course relies on three things:
+1. Your lab and lecture attendance
+2. Completion of lecture quizzes
+3. Following weekly lab exercises
+If you follow these three steps, the probability of your success will drastically
+increase. Completing lectures and labs will be integral to obtaining your marks for
+the 10 quizzes. The quizzes are designed to help determine and monitor your
+understanding of the course material. If you have questions about any quiz scores,
+please notify me and we can look at it together to determine any areas of
+improvement.
