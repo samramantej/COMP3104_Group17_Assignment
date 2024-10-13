@@ -48,18 +48,9 @@ This DevOps course covers various aspects of DevOps methodologies and tools thro
     Balancing automation in DevOps.
     Use of tools like SonarQube for code quality checks and Selenium for test automation.
 
-10. DevOps Assembly Lines:
-
-    Exploring the concept of DevOps assembly lines, maturing pipelines, and the future with AI/ML integration.
-
-11. Commonly Used DevOps Technologies:
+10. Commonly Used DevOps Technologies:
 
     Exposure to infrastructure automation tools like Ansible, Puppet, and Chef.
     Introduction to containerization with Docker and remote server automation.
-
-12. Transitioning into a DevOps Role:
-
-    Insights into how to transition into a DevOps career, including market demand, skills required, and salary expectations.
-    Guidance on certifications and job preparation.
 
 This comprehensive DevOps course builds a solid foundation in both theoretical and practical aspects of modern software development and deployment practices.
