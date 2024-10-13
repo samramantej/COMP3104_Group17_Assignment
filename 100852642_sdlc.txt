@@ -1,0 +1,65 @@
+The COMP3104 Devops course, captained by the illustrious Pritesh Patel, is a an engaging and thorough exploration of the Devops system
+
+This DevOps course covers various aspects of DevOps methodologies and tools through a combination of lectures, labs, exercises, and supplementary material. This is a little look at what we hit on during the course:
+
+1. Introduction, BASH & CLI:
+
+    Overview of DevOps, its future, and what a build pipeline is.
+    Basic BASH commands and shell usage.
+    Setting up course dependencies.
+
+2. Git, GitHub & More BASH:
+
+    Deep dive into Version Control Systems (VCS), especially Git and GitHub.
+    Comparison between Centralized (CVCS) and Distributed (DVCS) systems.
+    More advanced BASH scripting and handling SSH for secure access.
+
+3. Version Control for DevOps:
+
+    Usage of VCS in DevOps, including modern architectures (Monolith vs Microservices).
+    Practical application of Git for managing remote repositories and collaboration.
+
+4. Developer Operations Landscape:
+
+    Explores the roles, tools, and lifecycle in DevOps.
+    Introduction to workflows using GitHub and Travis CI for continuous integration (CI).
+
+5. Hosting Single Page Applications & Work Tracking:
+
+    How to deploy and host SPAs and the tools used for frontend build sequences.
+    Integration of work tracking tools like Jira.
+
+6. Continuous Integration/Continuous Deployment (CI/CD):
+
+    Set up Jenkins for automated builds and deployments.
+    Benefits of CI/CD in improving collaboration and testing automation.
+
+7. CI/CD Pipeline Sequences:
+
+    Design and management of CI/CD pipelines, including failure handling and deployment strategies using Jenkins.
+
+8. Working with Cloud Infrastructure:
+
+    Introduction to cloud computing in DevOps, focusing on XaaS, cloud storage, and associated risks.
+    Security practices in cloud environments.
+
+9. Automating DevOps & QA:
+
+    Balancing automation in DevOps.
+    Use of tools like SonarQube for code quality checks and Selenium for test automation.
+
+10. DevOps Assembly Lines:
+
+    Exploring the concept of DevOps assembly lines, maturing pipelines, and the future with AI/ML integration.
+
+11. Commonly Used DevOps Technologies:
+
+    Exposure to infrastructure automation tools like Ansible, Puppet, and Chef.
+    Introduction to containerization with Docker and remote server automation.
+
+12. Transitioning into a DevOps Role:
+
+    Insights into how to transition into a DevOps career, including market demand, skills required, and salary expectations.
+    Guidance on certifications and job preparation.
+
+This comprehensive DevOps course builds a solid foundation in both theoretical and practical aspects of modern software development and deployment practices.
